@@ -20,7 +20,7 @@ base:
   redis:
     host: 127.0.0.1
     port: 6379
-    password: hyman
+    password: 123456
   zipkin:
     url: http://111.231.192.110:10003/
 
